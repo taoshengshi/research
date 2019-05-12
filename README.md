@@ -14,8 +14,12 @@
 
 
 
-
+[Filecoin research](./articles/filecoin.md)   
 [My articles](./articles)   
 [Recommended books](./articles/books.md)   
+[Research materials](./articles/research.md)   
+[Software architecture](./articles/books.md)   
+[Cloud database](./articles/books.md)   
+[Distributed system](./articles/books.md)   
 [A bit more about me](./articles/aboutme.md)   
 
