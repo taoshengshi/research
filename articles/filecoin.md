@@ -59,7 +59,7 @@ https://medium.com/poa-network/poa-network-how-honey-badger-bft-consensus-works-
 [Malleability of the blockchains entropy]()    
 [A random zoo: sloth, unicorn, and trx]()    
 [Pricing via processing or combatting junk mail]()   
-[]()   
+[VDF reading list](https://notes.ethereum.org/s/BJC7m0gB7)   
 
 
 https://aumasson.jp/papers.html   
