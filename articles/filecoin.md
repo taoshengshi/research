@@ -45,6 +45,11 @@ https://medium.com/poa-network/poa-network-how-honey-badger-bft-consensus-works-
 [COIN FLIPPING BY TELEPHONE : A PROTOCOL FOR SOLVING IMPOSSIBLE PROBLEMS ](http://users.cms.caltech.edu/~vidick/teaching/101_crypto/Blum81_CoinFlipping.pdf)   
 [Efficient verifiable delay functions](https://eprint.iacr.org/2018/623.pdf)   
 [Simple Verifiable Delay Functions](http://drops.dagstuhl.de/opus/volltexte/2018/10153/pdf/LIPIcs-ITCS-2019-60.pdf)    
+[Simple Proofs of Sequential Work](https://eprint.iacr.org/2018/183.pdf)    
+[Scaling Proof-of-Replication for Filecoin Mining](https://web.stanford.edu/~bfisch/porep_short.pdf)    
+[Tight Proofs of Space and Replication](https://web.stanford.edu/~bfisch/tight_pos.pdf)   
+[PoReps: Proofs of Space on Useful Data](https://web.stanford.edu/~bfisch/porep.pdf)    
+[Weak Compression and (In)security of Rational Proofs of Storage](https://web.stanford.edu/~bfisch/porep_compose.pdf)   
 [A Survey of Two Verifiable Delay Functions](http://theory.stanford.edu/~dabo/papers/VDFsurvey.pdf)   
 [Time-lock puzzles and timed-release crypto]()    
 [Proofs-of-delay and randomness beacons in Ethereum](http://www.jbonneau.com/doc/BGB17-IEEESB-proof_of_delay_ethereum.pdf)（*****）    
