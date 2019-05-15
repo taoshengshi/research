@@ -101,6 +101,14 @@ https://notes.ethereum.org/s/BJC7m0gB7
 * [ethereum.org](https://ethresear.ch/)   
 * protocol.ai 
 * [Ethereum Research on VDF](https://ethresear.ch/t/verifiable-delay-functions-and-attacks/2365)   
-* [VDF Research Effort](https://vdfresearch.org/)     
+* [VDF Research Effort](https://vdfresearch.org/) 
+* https://web.stanford.edu/~bfisch/   
+* https://ethresear.ch/
+* http://itcs-conf.org/itcs19/itcs19-accepted.html
+* https://vdfresearch.org/
+* https://crypto.stanford.edu/~buenz/
+* https://notes.ethereum.org/s/BJC7m0gB7
+
+    
 
 
