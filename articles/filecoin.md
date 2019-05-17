@@ -96,6 +96,11 @@ https://notes.ethereum.org/s/BJC7m0gB7
 []()   
 []() 
 
+#### Filecoin Spec
+Problem with large POST_EPOCH_COUNTS: Different VDF hardware run at different speed. A small percentage of gain in a PoSt Epoch would result in a large time difference in Total Proving Time between the fastest and the slowest prover. We call the difference between fastest and average prover VDF speedup gap. We define a VDF Speedup gap as a percentage (0-1) and we assume a concrete gap for a PoSt Period between the assumed fastest and the best known prover. We define this gap as VDF_SPEEDUP_GAP.
+
+Mitigating VDF Speedups: We break up a PoSt into multiple PoSt Periods. Each period must take challenges from a Random Beacon which outputs randomness every interval MIN_POST_PERIOD_TIME . In this way, the faster prover can be VDF_SPEEDUP_GAP faster in each PoSt Period, but cannot be VDF_SPEEDUP_GAP faster over the Total Proving Period. In other words, the fastest prover cannot accumulate the gains at each PoSt period because, they have to wait for the new challenges from the Random Beacon. In the case of Filecoin, the blockchain acts as a Random Beacon).
+
 #### VDFs play a key role in the blockchain design
 * [chia.net](https://www.chia.net/)     
 * [ethereum.org](https://ethresear.ch/)   
