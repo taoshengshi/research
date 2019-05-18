@@ -1,4 +1,4 @@
-## Research Philosophy
+## Philosophy
 ![research and engineering](./pictures/The-Continuum-of-Research-and-Development.jpg)   
 
 #### Research for Practice
@@ -16,9 +16,9 @@
   research and engineering activities and encourage teams to pursue the right balance of each, knowing that this
   balance varies greatly. 
 
-## Categories
+## Category
 
-##### [vdf research](./articles/vdf.md)   
+##### [vdf research](./vdf.md)   
 ##### [My articles](./articles)    
 ##### [Software architecture](./articles/books.md)   
 ##### [Cloud database](./articles/books.md)   
