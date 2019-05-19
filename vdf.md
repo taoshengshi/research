@@ -1,5 +1,5 @@
 ## VDF Research
-#### 关于成立VDF中国技术社区的倡议
+## 关于成立VDF中国技术社区的倡议:
 拜占庭将军问题和Paxos算法的提出近40年，真正大规模应用是过去10年，因此Leslie Lamport在2013年获得图灵奖。
 
 Bitcoin从2008年提出至今已过10年，其共识机制PoW算法也稳定运行超过10年。
@@ -8,11 +8,11 @@ Bitcoin从2008年提出至今已过10年，其共识机制PoW算法也稳定运�
 
 VDF的提出，是应用加密学，分布式系统和区块链领域的重大技术突破，为区块链的consensus from resource，proof of，spacetime，secert leader election等难题奠定可行性的基础。
 
-不仅如此，作为一种randomness beacon服务，也可以应用到其他领域。
+不仅如此，作为一种delay service 和 randomness beacon service，也可以应用到其他领域。
 
 所以，过去的十年是paxos和pow的十年，未来的十年将是VDF的十年。
 
-因此我倡议成立VDF中国社区，共建生态，一起研究，一起探索新的应用领域。
+因此我倡议成立VDF中国社区，共建硬件和软件生态，一起研究，一起探索新的应用领域。
 
 请志同道合者联系：taoshengshi01@gmail.com
 
