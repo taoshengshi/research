@@ -6,7 +6,7 @@ Bitcoin从2008年提出至今已过10年，其共识机制PoW算法也稳定运�
 
 2018年6月12日VDF函数机制提出，即将满一年。
 
-VDF的提出，是应用加密学，分布式系统和区块链领域的重大技术突破，为区块链的consensus from resource，proof of，spacetime，secert leader election等难题奠定可行性的基础。
+VDF的提出，是应用加密学，分布式系统和区块链领域的重大技术突破，为区块链的consensus from resource，proof of spacetime，secert leader election等难题奠定可行性的基础。
 
 不仅如此，作为一种delay service 和 randomness beacon service，也可以应用到其他领域。
 
@@ -80,7 +80,7 @@ Randomness beacons:
 2016—Darknet [RANDAO: A DAO Working as RNG of Ethereum](https://steemit.com/ethereum/@darknet/randao-1-0-is-here-or-a-dao-working-as-rng-of-ethereum)    
 1998—Goldschlag, [Stubblebine Publicly Veriable Lotteries: Applications of Delaying Functions](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.53.284&rep=rep1&type=pdf)    
 
-Proofs of space/replication:
+Proofs of space/replication:   
 2018 (August)—Fisch, Bonneau, Greco, Benet [Scaling Proof-of-Replication for Filecoin Mining](https://web.stanford.edu/~bfisch/porep_short.pdf)   
 2018 (24 July)—Fisch [Tight Proofs of Space and Replication](https://eprint.iacr.org/2018/702.pdf)    
 2018 (16 July)—Cecchetti, Miers, Juels [PIEs: Public Incompressible Encodings for Decentralized Storage](https://eprint.iacr.org/2018/684.pdf)    
@@ -105,7 +105,7 @@ Other relevant reading:
 1999—Sander [Efficient Accumulators without Trapdoor Extended Abstract](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.28.4015&rep=rep1&type=pdf)   
 1996—Rivest, Shamir, Wagner [Time-lock Puzzles and Timed-release Crypto](https://people.csail.mit.edu/rivest/pubs/RSW96.pdf)   
 
-video：
+video：   
 Justin Drake: [Ethereum's Audacious Roadmap to Build a True World Computer](https://www.youtube.com/watch?v=QDwaAnhSJk8)   
 2019—Dan Boneh [Verifiable Delay Functions](https://www.youtube.com/watch?v=dN-1q8c50q0)   
 2019—Jeromy Johnson [VDFs and Filecoin](https://www.youtube.com/watch?v=GZZ2G9bPXsM)   
@@ -142,7 +142,7 @@ https://medium.com/poa-network/poa-network-how-honey-badger-bft-consensus-works-
 * https://qihardware.org
 * [VDF FAQ](https://qihardware.org/2019/03/17/vdf-faq-1/)
 * [ethereum.org](https://ethresear.ch/)   
-* protocol.ai 
+* [protocol.ai](https://protocol.ai/)    
 * [Ethereum Research on VDF](https://ethresear.ch/t/verifiable-delay-functions-and-attacks/2365)   
 * [VDF Research Effort](https://vdfresearch.org/) 
 * https://web.stanford.edu/~bfisch/   
