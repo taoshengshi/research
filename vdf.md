@@ -70,6 +70,7 @@ Sep 2018—Justin Drake [Minimal VDF randomness beacon](https://ethresear.ch/t/m
 Aug 2018—Jeromy Johnson [A VDF Explainer](https://reading.supply/@whyrusleeping/a-vdf-explainer-5S6Ect)   
 Jul 2018—Danny Ryan [VDFs are not Proof of Work](https://medium.com/@djrtwo/vdfs-are-not-proof-of-work-91ba3bec2bf4)   
 Apr 2018—Anatoly Yakovenko [Proof of History: A clock for blockchain](https://medium.com/solana-labs/proof-of-history-a-clock-for-blockchain-cf47a61a9274)    
+[A note on isogeny-based hybrid verifiable delay functions](https://eprint.iacr.org/2019/205.pdf)   
 
 Randomness beacons:   
 2018 (26 September)—Drake [Minimal VDF Randomness Beacon](https://ethresear.ch/t/minimal-vdf-randomness-beacon/3566)    
@@ -135,6 +136,17 @@ consensus:
 https://github.com/poanetwork/hbbft   
 https://medium.com/poa-network/poa-network-how-honey-badger-bft-consensus-works-4b16c0f1ff94    
 [RANDO Whitepaper](https://www.randao.org/whitepaper/Randao_v0.85.pdf)    
+
+ethereum on VDF:   
+https://www.mycryptopedia.com/ethereum-beacon-chain-explained/    
+https://ethresear.ch/t/minimal-vdf-randomness-beacon/3566    
+https://ethresear.ch/t/sha256-based-vdf/3054    
+https://ethresear.ch/t/verifiable-delay-functions-and-attacks/2365    
+https://medium.com/@icebearhww/ethereum-sharding-and-finality-65248951f649    
+https://medium.com/@icebearhww/ethereum-sharding-workshop-in-taipei-a44c0db8b8d9    
+https://www.unitimes.io/auther/12232/
+
+
 
 
 #### VDF Pojects  
