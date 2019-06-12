@@ -54,6 +54,9 @@ Constructions:
 2018 (20 June)—Wesolowski [Efficient verifiable delay functions](https://eprint.iacr.org/2018/623.pdf)    
 2018 (30 July)—Boneh, Bünz, Fisch  [A Survey of Two Verifiable Delay Functions](http://theory.stanford.edu/~dabo/papers/VDFsurvey.pdf)   
 2019 (13 Feb)—De Feo, Masson, Petit, Sanso [Verifiable Delay Functions from Supersingular Isogenies and Pairings](https://eprint.iacr.org/2019/166.pdf)   
+2019 (13 Feb)—De Feo, Masson, Petit, Sanso [Verifiable Delay Functions from Supersingular Isogenies and Pairings](https://eprint.iacr.org/2019/166.pdf)   
+2019 ()—Döttling, Garg, Malavolta, Vasudevan [Tight Verifiable Delay Functions](https://eprint.iacr.org/2019/659.pdf)
+2019 (3 June)-Ephraim, Freitag, Komargodski, Pass [Continuous Verifiable Delay Functions](https://eprint.iacr.org/2019/619.pdf)
 
 [TRUST, AND PUBLIC ENTROPY:A UNICORN HUNT](https://csrc.nist.gov/csrc/media/events/random-bit-generation-workshop-2016/documents/presentations/sessionv-3-benjamin-wesolowski-presentation.pdf)    
 [A Subexponential Time Algorithm for the Dihedral Hidden Subgroup Problem with Polynomial Space](https://arxiv.org/pdf/quant-ph/0406151.pdf)         
