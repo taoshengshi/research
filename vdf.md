@@ -52,6 +52,7 @@ funded 50/50 by Protocol Labs and the Ethereum Foundation
 * https://twitter.com/drakefjustin
 * https://ethresear.ch/
 * [MIT VDF Day](https://dci.mit.edu/vdfday)    
+* https://www.vdfalliance.org/
 
 #### VDFs read list
 Constructions:    
